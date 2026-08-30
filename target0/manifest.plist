@@ -1,0 +1,51 @@
+HTTP/1.1 200 OK
+Date: Thu, 06 Aug 2026 08:48:45 GMT
+Content-Type: application/xml; chatset=utf-8
+Content-Length: 1232
+Connection: keep-alive
+server: nginx
+x-req-id: 6a744a6d_PSxjpSin5ah152_16799-46338
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>items</key>
+  <array>
+   <dict>
+    <key>assets</key>
+    <array>
+     <dict>
+      <key>kind</key>
+      <string>software-package</string>
+      <key>url</key>
+      <string>https://mzi3ngewmjc2.baqew.com/clientapi/app/ipa?osskey=f9960b2523f4485c9fd3acde0b7c46ff</string>
+     </dict>
+	 <dict>  
+      <key>kind</key>  
+      <string>full-size-image</string>  
+      <key>url</key>  
+      <string>https://mzi3ngewmjc2.baqew.com/publicres/logo/24dipp_logo.png?t=1786005600</string>  
+    </dict>  
+    <dict>  
+      <key>kind</key>  
+      <string>display-image</string>  
+      <key>url</key>  
+      <string>https://mzi3ngewmjc2.baqew.com/publicres/logo/24dipp_logo.png?t=1786005600</string>  
+    </dict> 
+    </array>
+    <key>metadata</key>
+    <dict>
+     <key>bundle-identifier</key>
+     <string>com.dataapp.dataCollector</string>
+     <key>bundle-version</key>
+     <string>1.0.0</string>
+     <key>kind</key>
+     <string>software</string>
+     <key>title</key>
+     <string>TG群</string>
+    </dict>
+   </dict>
+  </array>
+ </dict>
+</plist>
